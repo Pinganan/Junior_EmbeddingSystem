@@ -3,8 +3,8 @@
 #include <WiFiClientSecure.h>
 
 char SSID[] = "iPhone";
-char PASSWORD[] = "ml5418ml";
-String Linetoken = "PNpDLhcG1L8AkV5uHyuRtXoQoQdBZlKStSpTvTTvV6l";
+char PASSWORD[] = "........";   #pw
+String Linetoken = "................................."; #token
 int send_flag = 0;
 
 int pinRain = 13;

@@ -4,9 +4,9 @@
 
 //ssid, password, token--------------------------------------------
 char SSID[] = "iPhone";
-char PASSWORD[] = "ml5418ml";
+char PASSWORD[] = "....."; #
 WiFiServer server(8088);
-String Linetoken = "PNpDLhcG1L8AkV5uHyuRtXoQoQdBZlKStSpTvTTvV6l";
+String Linetoken = "..................................."; #token
 int pinDHT11 = 14;
 SimpleDHT11 dht11(pinDHT11);
 int send_flag = 1;
